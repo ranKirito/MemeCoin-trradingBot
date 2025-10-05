@@ -1,4 +1,4 @@
-# Trading Bot (Archived)
+# Trading Bot 
 
 > Deprecated — this bot no longer works. Code is kept for learning, reference, and reuse of utilities. Do not use it for real trading.
 
