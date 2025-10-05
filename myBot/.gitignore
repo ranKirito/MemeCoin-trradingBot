@@ -1,0 +1,13 @@
+node_modules
+anon.session
+.Ds_Store
+.env
+/anon.session-journal
+scrape_session.session
+/2xsell
+/hopefully
+/checkstats
+/tests
+/testsV2
+/Data_analysis2 copy
+/Data_analysis2
